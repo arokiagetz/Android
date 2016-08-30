@@ -3,122 +3,136 @@
 
     <item
         jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_179046b340a1e58daeda315cd51c7a603b4095f1.jar" />
-    </item>
-    <item
-        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_cfdf0a1e4a5909afe25c6356e9be703dde7ed58c.jar" />
-    </item>
-    <item
-        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b9aaa8842566019509ec6723c06aaa916b9a45bc.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_179046b340a1e58daeda315cd51c7a603b4095f1/classes.dex" />
     </item>
     <item
         jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_3dc4cdd92a3b1bb8673c22a52571cb46354a64df.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_3dc4cdd92a3b1bb8673c22a52571cb46354a64df/classes.dex" />
     </item>
     <item
-        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
         revision="24.0.2"
-        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_013c397c81af3eb95661e8ac96a8351155e5d352.jar" />
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b9aaa8842566019509ec6723c06aaa916b9a45bc/classes.dex" />
     </item>
     <item
         jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_241e3879996d1b2e6e5aaaa97eaee724a1d1b8fd.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_241e3879996d1b2e6e5aaaa97eaee724a1d1b8fd/classes.dex" />
     </item>
     <item
         jar="/Users/arokiarajp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_b78f1f76916b1fd00e807d1ca5f52cc59cd85a2e.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_b78f1f76916b1fd00e807d1ca5f52cc59cd85a2e/classes.dex" />
     </item>
     <item
         jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_2a0fb644d9b547a7ec9dba8c9c2683ad4d1c65ba.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_2a0fb644d9b547a7ec9dba8c9c2683ad4d1c65ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44c289d1dfd80ff56eadcef1291bdc4fe2b138c9">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f3c10a868ead9a61d0bfdb7b20d729e31fd8b641/classes.dex" />
     </item>
     <item
         jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_a751c4cbf4c35bc9fc86f7effeb3007ac3cb81b4.jar" />
-    </item>
-    <item
-        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_433602a67515d2c51fb91fbbb1e022c71908fb2b.jar" />
-    </item>
-    <item
-        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_c52c1d428cb0e807a58c47d5fce7fcf633d993f9.jar" />
-    </item>
-    <item
-        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_72a4c0a34b2b535777a85a9aa1f860bfde2332be.jar" />
-    </item>
-    <item
-        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_1b38b55da527c5f9351ef76d51a72f899c61cce9.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_a751c4cbf4c35bc9fc86f7effeb3007ac3cb81b4/classes.dex" />
     </item>
     <item
         jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_837cd93817dbc36547d9800650eb009ff52d3e98.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_837cd93817dbc36547d9800650eb009ff52d3e98/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c52c1d428cb0e807a58c47d5fce7fcf633d993f9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_72a4c0a34b2b535777a85a9aa1f860bfde2332be/classes.dex" />
     </item>
     <item
         jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_8ada6f7ad75335a042b459a84987a7789488cfc4.jar" />
-    </item>
-    <item
-        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        revision="24.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_61b25e48edc71825d219b03f1ba40b8ba82f1d45.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_8ada6f7ad75335a042b459a84987a7789488cfc4/classes.dex" />
     </item>
     <item
         jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="24.0.2"
         sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_07a193753c40a54173bdf2d719db053aee9d9baf.jar" />
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_07a193753c40a54173bdf2d719db053aee9d9baf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_61b25e48edc71825d219b03f1ba40b8ba82f1d45/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_cfdf0a1e4a5909afe25c6356e9be703dde7ed58c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_013c397c81af3eb95661e8ac96a8351155e5d352/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f5fef092de1afb36e33f693cedef279d7d0dbf16">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63e0e632dd31c4aad22462c4031df8177a81575e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_433602a67515d2c51fb91fbbb1e022c71908fb2b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/arokiarajp/AndroidStudioProjects/ArokiaApplicationName/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_1b38b55da527c5f9351ef76d51a72f899c61cce9/classes.dex" />
     </item>
 
 </items>
